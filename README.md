@@ -15,4 +15,12 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/charlie098/code_study/tree/master/0232-implement-queue-using-stacks) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/charlie098/code_study/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/charlie098/code_study/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
