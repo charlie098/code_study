@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/charlie098/code_study/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/charlie098/code_study/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/charlie098/code_study/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/charlie098/code_study/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/charlie098/code_study/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
@@ -100,4 +101,5 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/charlie098/code_study/tree/master/0322-coin-change) |
+| [0746-min-cost-climbing-stairs](https://github.com/charlie098/code_study/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
