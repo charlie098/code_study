@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/charlie098/code_study/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/charlie098/code_study/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/charlie098/code_study/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/charlie098/code_study/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/charlie098/code_study/tree/master/0733-flood-fill) |
@@ -100,6 +101,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/charlie098/code_study/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/charlie098/code_study/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/charlie098/code_study/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
