@@ -104,4 +104,13 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charlie098/code_study/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/charlie098/code_study/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/charlie098/code_study/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/charlie098/code_study/tree/master/1137-n-th-tribonacci-number) |
+## Math
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/charlie098/code_study/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/charlie098/code_study/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
