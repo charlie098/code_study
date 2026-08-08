@@ -85,6 +85,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/charlie098/code_study/tree/master/0091-decode-ways) |
 | [0572-subtree-of-another-tree](https://github.com/charlie098/code_study/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -101,6 +102,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/charlie098/code_study/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charlie098/code_study/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/charlie098/code_study/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/charlie098/code_study/tree/master/0338-counting-bits) |
