@@ -115,11 +115,13 @@
 | [0416-partition-equal-subset-sum](https://github.com/charlie098/code_study/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/charlie098/code_study/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/charlie098/code_study/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/charlie098/code_study/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/charlie098/code_study/tree/master/1137-n-th-tribonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/charlie098/code_study/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/charlie098/code_study/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/charlie098/code_study/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -151,4 +153,16 @@
 | ------- |
 | [0055-jump-game](https://github.com/charlie098/code_study/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/charlie098/code_study/tree/master/0135-candy) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/charlie098/code_study/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/charlie098/code_study/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/charlie098/code_study/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
