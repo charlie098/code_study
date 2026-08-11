@@ -20,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/charlie098/code_study/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charlie098/code_study/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/charlie098/code_study/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/charlie098/code_study/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/charlie098/code_study/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/charlie098/code_study/tree/master/0416-partition-equal-subset-sum) |
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/charlie098/code_study/tree/master/0416-partition-equal-subset-sum) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/charlie098/code_study/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
