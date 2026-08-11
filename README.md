@@ -22,6 +22,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charlie098/code_study/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/charlie098/code_study/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/charlie098/code_study/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/charlie098/code_study/tree/master/0416-partition-equal-subset-sum) |
 | [0733-flood-fill](https://github.com/charlie098/code_study/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/charlie098/code_study/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/charlie098/code_study/tree/master/0994-rotting-oranges) |
@@ -108,6 +109,7 @@
 | [0322-coin-change](https://github.com/charlie098/code_study/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/charlie098/code_study/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/charlie098/code_study/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/charlie098/code_study/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/charlie098/code_study/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/charlie098/code_study/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/charlie098/code_study/tree/master/1137-n-th-tribonacci-number) |
@@ -133,4 +135,12 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/charlie098/code_study/tree/master/0392-is-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/charlie098/code_study/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/charlie098/code_study/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
