@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/charlie098/code_study/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/charlie098/code_study/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charlie098/code_study/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/charlie098/code_study/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/charlie098/code_study/tree/master/0217-contains-duplicate) |
@@ -105,6 +106,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/charlie098/code_study/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/charlie098/code_study/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charlie098/code_study/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/charlie098/code_study/tree/master/0322-coin-change) |
@@ -147,5 +149,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/charlie098/code_study/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/charlie098/code_study/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
