@@ -26,6 +26,7 @@
 | [0322-coin-change](https://github.com/charlie098/code_study/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/charlie098/code_study/tree/master/0416-partition-equal-subset-sum) |
 | [0605-can-place-flowers](https://github.com/charlie098/code_study/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/charlie098/code_study/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/charlie098/code_study/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/charlie098/code_study/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/charlie098/code_study/tree/master/0994-rotting-oranges) |
@@ -35,10 +36,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/charlie098/code_study/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/charlie098/code_study/tree/master/0217-contains-duplicate) |
+| [0621-task-scheduler](https://github.com/charlie098/code_study/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/charlie098/code_study/tree/master/0217-contains-duplicate) |
+| [0621-task-scheduler](https://github.com/charlie098/code_study/tree/master/0621-task-scheduler) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/charlie098/code_study/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Tree
 |  |
@@ -157,6 +160,7 @@
 | [0055-jump-game](https://github.com/charlie098/code_study/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/charlie098/code_study/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/charlie098/code_study/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/charlie098/code_study/tree/master/0621-task-scheduler) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/charlie098/code_study/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Brainteaser
 |  |
@@ -170,4 +174,12 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/charlie098/code_study/tree/master/1025-divisor-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/charlie098/code_study/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/charlie098/code_study/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
