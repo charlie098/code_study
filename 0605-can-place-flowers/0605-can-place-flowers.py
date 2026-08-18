@@ -11,21 +11,29 @@ class Solution:
         #0이 둘이면 반드시 맨앞/뒤 에1을 추가
         #0이 셋이면 반드시 가운데에 1을 추가
 
-        # 1. 양 끝에 가상의 0을 추가 (맨 앞/맨 뒤 예외 처리 제거)
-        padded = [0] + flowerbed + [0]
-        
         zero_count = 0
         max_flowers = 0
+        has_one = False  # 배열에 1이 한 번이라도 나왔는지 여부
 
-        for num in padded:
+        for num in flowerbed:
             if num == 0:
                 zero_count += 1
             else:
-                # 1을 만나면 지금까지 쌓인 0의 개수로 심을 수 있는 꽃 계산
-                max_flowers += (zero_count - 1) // 2
-                zero_count = 0  # 카운트 초기화
+                if not has_one:
+                    # [맨 앞] 첫 1을 만나기 전: 0이 2개당 꽃 1개 (zero_count // 2)
+                    max_flowers += zero_count // 2
+                    has_one = True
+                else:
+                    # [중간] 1과 1 사이: 0이 3개당 꽃 1개 ((zero_count - 1) // 2)
+                    max_flowers += (zero_count - 1) // 2
+                zero_count = 0  # 카운터 리셋
 
-        # 마지막으로 남아있는 연속된 0들 계산
-        max_flowers += (zero_count - 1) // 2
+        # 루프가 끝나고 남은 끝부분 0 처리
+        if not has_one:
+            # [특수 케이스] 배열 전체가 0일 때: (zero_count + 1) // 2
+            max_flowers += (zero_count + 1) // 2
+        else:
+            # [맨 뒤] 마지막 1 이후: 0이 2개당 꽃 1개 (zero_count // 2)
+            max_flowers += zero_count // 2
 
         return max_flowers >= n
