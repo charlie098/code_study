@@ -21,6 +21,7 @@
 | [0001-two-sum](https://github.com/charlie098/code_study/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/charlie098/code_study/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/charlie098/code_study/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/charlie098/code_study/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charlie098/code_study/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/charlie098/code_study/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/charlie098/code_study/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -143,6 +144,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/charlie098/code_study/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/charlie098/code_study/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
@@ -194,4 +196,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/charlie098/code_study/tree/master/0278-first-bad-version) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/charlie098/code_study/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
