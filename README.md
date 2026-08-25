@@ -182,4 +182,12 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/charlie098/code_study/tree/master/0621-task-scheduler) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/charlie098/code_study/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/charlie098/code_study/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
