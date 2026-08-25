@@ -54,6 +54,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/charlie098/code_study/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/charlie098/code_study/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/charlie098/code_study/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/charlie098/code_study/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/charlie098/code_study/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/charlie098/code_study/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -63,6 +64,7 @@
 | [0101-symmetric-tree](https://github.com/charlie098/code_study/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/charlie098/code_study/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/charlie098/code_study/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/charlie098/code_study/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/charlie098/code_study/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/charlie098/code_study/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/charlie098/code_study/tree/master/0572-subtree-of-another-tree) |
@@ -87,6 +89,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/charlie098/code_study/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/charlie098/code_study/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/charlie098/code_study/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/charlie098/code_study/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/charlie098/code_study/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/charlie098/code_study/tree/master/0572-subtree-of-another-tree) |
 ## Matrix
@@ -98,6 +101,7 @@
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/charlie098/code_study/tree/master/0091-decode-ways) |
+| [0257-binary-tree-paths](https://github.com/charlie098/code_study/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/charlie098/code_study/tree/master/0392-is-subsequence) |
 | [0572-subtree-of-another-tree](https://github.com/charlie098/code_study/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
@@ -200,4 +204,5 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/charlie098/code_study/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/charlie098/code_study/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
