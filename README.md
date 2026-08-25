@@ -23,6 +23,7 @@
 | [0055-jump-game](https://github.com/charlie098/code_study/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charlie098/code_study/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/charlie098/code_study/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/charlie098/code_study/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/charlie098/code_study/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/charlie098/code_study/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/charlie098/code_study/tree/master/0416-partition-equal-subset-sum) |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/charlie098/code_study/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/charlie098/code_study/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/charlie098/code_study/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
